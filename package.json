@@ -1,0 +1,11 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "test tensorflow",
+  "main": "app.js",
+  "author": "xiongyl",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-wechat": "0.0.3"
+  }
+}

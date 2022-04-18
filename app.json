@@ -1,0 +1,25 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/ncov-take-photo/index",
+    "pages/result/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "plugins": {
+    "lhPlugin": {
+      "version": "1.1.21",
+      "provider": "wx479777803030f27b"
+    },
+    "tfjsPlugin": {
+      "version": "0.2.0",
+      "provider": "wx6afed118d9e81df9"
+    }
+  }
+}

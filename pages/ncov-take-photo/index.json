@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "v-ncov-paper-analysis": "plugin://lhPlugin/ncovPaperAnalysis"
+  }
+}

@@ -1,0 +1,5 @@
+<v-ncov-paper-analysis 
+bind:navigatePageBack="navigatePageBack" 
+bind:analysisResult="analysisResult" 
+saasConfig="{{saasConfig}}"  >
+</v-ncov-paper-analysis>

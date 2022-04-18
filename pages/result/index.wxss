@@ -1,0 +1,17 @@
+.paperImg{
+  width: 90%;
+  height: auto;
+}
+.paperResult{
+  text-align: center;
+  margin: 24rpx;
+}
+.confirm{
+  text-align: center;
+  position: absolute;
+  bottom: 24rpx;
+  width: 100%;
+}
+.confirmBtn{
+  width: 80%;
+}
